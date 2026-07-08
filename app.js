@@ -7,7 +7,7 @@ let userSeq = [];
 let h2 = document.querySelector('h2');
 let idx = 0;
 
-body.addEventListener('keypress', function () {
+body.addEventListener('click', function () {
     if (gamestart == false) {
         gamestart = true;
         start();

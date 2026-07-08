@@ -1,0 +1,43 @@
+.headings{
+    width:300px;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.box {
+    width: 90px;
+    height: 90px;
+    border: 5px solid black;
+    margin: 20px;
+}
+.box1{
+background-color: #800080;
+}
+.box2{
+background-color: goldenrod; 
+}
+.box3{
+background-color:lightcoral;
+}
+.box4{
+background-color:lightseagreen;
+}
+
+.whitebg{
+    background-color: white;
+}
+
+.redbg{
+    background-color: red;
+}
+.greenbg{
+    background-color: green;
+}
